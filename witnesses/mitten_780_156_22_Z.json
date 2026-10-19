@@ -1,0 +1,87 @@
+{
+ "code": "mitten [[780,156,22]]",
+ "yarn_folder": "processor_codes/mitten/[[780,156,22]]",
+ "half": "Z",
+ "faults_total": 16,
+ "faults": {
+  "data_qubits": [
+   2,
+   6,
+   36,
+   85,
+   122,
+   131,
+   146,
+   377,
+   386,
+   432,
+   440
+  ],
+  "ancilla_faults": [
+   {
+    "check_row": 111,
+    "after_gate_number": 3,
+    "spreads_to": [
+     267,
+     256,
+     223,
+     738,
+     769,
+     659
+    ]
+   },
+   {
+    "check_row": 150,
+    "after_gate_number": 2,
+    "spreads_to": [
+     92,
+     306,
+     169,
+     291,
+     649,
+     657,
+     727
+    ]
+   },
+   {
+    "check_row": 189,
+    "after_gate_number": 2,
+    "spreads_to": [
+     316,
+     501,
+     541,
+     483,
+     657,
+     679,
+     706
+    ]
+   },
+   {
+    "check_row": 237,
+    "after_gate_number": 2,
+    "spreads_to": [
+     358,
+     549,
+     589,
+     530,
+     705,
+     727,
+     754
+    ]
+   },
+   {
+    "check_row": 240,
+    "after_gate_number": 2,
+    "spreads_to": [
+     387,
+     552,
+     582,
+     521,
+     708,
+     705,
+     769
+    ]
+   }
+  ]
+ }
+}

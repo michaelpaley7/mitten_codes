@@ -1,0 +1,118 @@
+{
+ "code": "mitten [[630,126,20]]",
+ "yarn_folder": "processor_codes/mitten/[[630,126,20]]",
+ "half": "Z",
+ "faults_total": 13,
+ "faults": {
+  "data_qubits": [
+   14,
+   110,
+   112,
+   284,
+   306
+  ],
+  "ancilla_faults": [
+   {
+    "check_row": 29,
+    "after_gate_number": 2,
+    "spreads_to": [
+     39,
+     155,
+     237,
+     216,
+     530,
+     594,
+     531
+    ]
+   },
+   {
+    "check_row": 35,
+    "after_gate_number": 2,
+    "spreads_to": [
+     91,
+     161,
+     220,
+     151,
+     506,
+     582,
+     597
+    ]
+   },
+   {
+    "check_row": 90,
+    "after_gate_number": 2,
+    "spreads_to": [
+     85,
+     216,
+     214,
+     172,
+     523,
+     550,
+     537
+    ]
+   },
+   {
+    "check_row": 127,
+    "after_gate_number": 3,
+    "spreads_to": [
+     379,
+     436,
+     456,
+     505,
+     523,
+     546
+    ]
+   },
+   {
+    "check_row": 152,
+    "after_gate_number": 2,
+    "spreads_to": [
+     377,
+     404,
+     444,
+     397,
+     530,
+     507,
+     505
+    ]
+   },
+   {
+    "check_row": 153,
+    "after_gate_number": 2,
+    "spreads_to": [
+     351,
+     405,
+     480,
+     411,
+     531,
+     508,
+     537
+    ]
+   },
+   {
+    "check_row": 160,
+    "after_gate_number": 3,
+    "spreads_to": [
+     412,
+     435,
+     391,
+     538,
+     574,
+     548
+    ]
+   },
+   {
+    "check_row": 204,
+    "after_gate_number": 3,
+    "spreads_to": [
+     456,
+     394,
+     384,
+     582,
+     546,
+     538
+    ]
+   }
+  ]
+ }
+}

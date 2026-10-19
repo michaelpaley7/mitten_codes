@@ -1,0 +1,29 @@
+{
+ "code": "mitten [[540,108,18]]",
+ "yarn_folder": "processor_codes/mitten/[[540,108,18]]",
+ "half": "X",
+ "faults_total": 18,
+ "faults": {
+  "data_qubits": [
+   21,
+   26,
+   37,
+   41,
+   48,
+   60,
+   63,
+   99,
+   108,
+   134,
+   135,
+   175,
+   176,
+   178,
+   186,
+   203,
+   210,
+   214
+  ],
+  "ancilla_faults": []
+ }
+}

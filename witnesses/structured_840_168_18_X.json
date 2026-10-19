@@ -1,0 +1,92 @@
+{
+ "code": "structured [[840,168,18]]",
+ "yarn_folder": "processor_codes/structured_mitten/[[840,168,18]]",
+ "half": "X",
+ "faults_total": 13,
+ "faults": {
+  "data_qubits": [
+   73,
+   172,
+   211,
+   254,
+   281,
+   306,
+   324
+  ],
+  "ancilla_faults": [
+   {
+    "check_row": 161,
+    "after_gate_number": 3,
+    "spreads_to": [
+     497,
+     432,
+     367,
+     776,
+     715,
+     839
+    ]
+   },
+   {
+    "check_row": 176,
+    "after_gate_number": 3,
+    "spreads_to": [
+     512,
+     642,
+     557,
+     680,
+     829,
+     717
+    ]
+   },
+   {
+    "check_row": 220,
+    "after_gate_number": 3,
+    "spreads_to": [
+     556,
+     518,
+     609,
+     724,
+     717,
+     757
+    ]
+   },
+   {
+    "check_row": 253,
+    "after_gate_number": 3,
+    "spreads_to": [
+     589,
+     539,
+     644,
+     757,
+     724,
+     776
+    ]
+   },
+   {
+    "check_row": 257,
+    "after_gate_number": 2,
+    "spreads_to": [
+     256,
+     593,
+     528,
+     631,
+     761,
+     720,
+     775
+    ]
+   },
+   {
+    "check_row": 294,
+    "after_gate_number": 3,
+    "spreads_to": [
+     630,
+     599,
+     520,
+     798,
+     784,
+     839
+    ]
+   }
+  ]
+ }
+}

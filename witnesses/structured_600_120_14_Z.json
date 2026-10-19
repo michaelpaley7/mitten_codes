@@ -1,0 +1,141 @@
+{
+ "code": "structured [[600,120,14]]",
+ "yarn_folder": "processor_codes/structured_mitten/[[600,120,14]]",
+ "half": "Z",
+ "faults_total": 10,
+ "faults": {
+  "data_qubits": [],
+  "ancilla_faults": [
+   {
+    "check_row": 22,
+    "after_gate_number": 2,
+    "spreads_to": [
+     16,
+     142,
+     231,
+     148,
+     594,
+     525,
+     503
+    ]
+   },
+   {
+    "check_row": 23,
+    "after_gate_number": 2,
+    "spreads_to": [
+     17,
+     143,
+     230,
+     149,
+     596,
+     523,
+     502
+    ]
+   },
+   {
+    "check_row": 46,
+    "after_gate_number": 2,
+    "spreads_to": [
+     40,
+     166,
+     135,
+     172,
+     498,
+     549,
+     527
+    ]
+   },
+   {
+    "check_row": 47,
+    "after_gate_number": 2,
+    "spreads_to": [
+     41,
+     167,
+     134,
+     173,
+     500,
+     547,
+     526
+    ]
+   },
+   {
+    "check_row": 70,
+    "after_gate_number": 2,
+    "spreads_to": [
+     64,
+     190,
+     159,
+     196,
+     522,
+     573,
+     551
+    ]
+   },
+   {
+    "check_row": 71,
+    "after_gate_number": 2,
+    "spreads_to": [
+     65,
+     191,
+     158,
+     197,
+     524,
+     571,
+     550
+    ]
+   },
+   {
+    "check_row": 94,
+    "after_gate_number": 2,
+    "spreads_to": [
+     88,
+     214,
+     183,
+     220,
+     546,
+     597,
+     575
+    ]
+   },
+   {
+    "check_row": 95,
+    "after_gate_number": 2,
+    "spreads_to": [
+     89,
+     215,
+     182,
+     221,
+     548,
+     595,
+     574
+    ]
+   },
+   {
+    "check_row": 118,
+    "after_gate_number": 2,
+    "spreads_to": [
+     112,
+     238,
+     207,
+     124,
+     570,
+     501,
+     599
+    ]
+   },
+   {
+    "check_row": 119,
+    "after_gate_number": 2,
+    "spreads_to": [
+     113,
+     239,
+     206,
+     125,
+     572,
+     499,
+     598
+    ]
+   }
+  ]
+ }
+}
